@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on maps and satellite projects.
 - 🤔 I’m looking for help with real-time critical software systems.
 - 💬 Ask me about the best places to eat at any given time.
-- 📫 How to reach me (by email): hong.le@hongcodes.com
+- 📫 How to reach me (by email): hong.le@hongcodes.com || hongle.codes@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can beat you in arm wrestling, with an unwavering 100% win rate
 
