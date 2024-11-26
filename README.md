@@ -3,9 +3,10 @@
 ## Greetings, mission briefing begins now! 👋 
 
 - 🔭 I’m currently working on hongcodes.com
-- 🌱 I’m currently learning artificial intelligence at Georgia Tech.
+- 🌱 I’m currently studying artificial intelligence at Georgia Tech.
 - 👯 I’m looking to collaborate on maps and satellite projects.
-- 🤔 I’m looking for help with real-time critical software systems.
+- 🤔 I’m seeking help with real-time critical software systems + basic EE!
+
 - 💬 Ask me about the best places to eat at any given time.
 - 📫 How to reach me (by email): hong.le@hongcodes.com || hongle.codes@gmail.com
 - 😄 Pronouns: she/her
