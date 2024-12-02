@@ -21,11 +21,11 @@
 
 ---
 
-### 🌟 Random Fun:
+<!-- ### 🌟 Random Fun:
 - 🛩 **Pilot-in-Training** — Soaring the skies, one step at a time.  
 - 💻 **Cybersecurity**: Passionate about creating safe and secure solutions.
 
----
+--- -->
 <!-- ### 🌐 Find Me Here:
 - [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/honglebs/)
 - [![Gmail](https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Gmail_logo_2020.svg)](mailto:hongle.codes@gmail.com)
