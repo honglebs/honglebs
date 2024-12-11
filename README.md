@@ -14,6 +14,7 @@ Long ago, I was the metaphysical embodiment of **rainbows and happiness**, an un
 
 As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wield my keyboard and over-caffeinated imagination to bring wild ideas to life. If you're into **tech**, **anarchy**, or **bad puns**, we’re probably going to get along just fine. Let’s connect and make something awesome together! 🚀
 
+![til](assets/rainbow-line.gif)
 ---
 
 ### 📍 Current Focus:
@@ -28,13 +29,23 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Language**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=python,java,cpp" />
     </a>
   </p>
 
 - **Frameworks & Libraries**:
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    </a>
+  </p>
 
 - **Tools & Platforms**:
+ <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    </a>
+  </p>
 
 ---
 
