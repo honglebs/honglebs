@@ -3,9 +3,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Hong+Le.;I+love+building+software+solutions...;...and+creating+cybersecurity+strategies.+;I'm+coding+in+Java+%26+C%2B%2B+...;...wait%2C+no+%E2%80%94+Python!...++;...actually%2C+all+of+the+above.+;Software+Engineer+by+day...++;...Pilot-in-Training+by+night.+;%22Tower%2C+requesting+permission+to+land...%22++;...on+this+amazing+new+project!+;%22Final+approach+initiated...%22++;...but+I+might+just+keep+soaring.++%E2%9C%88%EF%B8%8F)](https://git.io/typing-svg)
 
 ## 👋 Greetings, mission briefing begins now!
-- Welcome to my Github! I'm Hong Le, a professional procrasinator excelling in the art of doing absolutely nothing in the most spectacular way imaginable. Sometimes, I’m an overzealous, impulsive, megalomaniacal human convinced of my own greatness—other times, just your average existential crisis in a hoodie.
 
-Once upon a time, I was the metaphysical embodiment of rainbows and happiness, an unseen spirit drifting through the winds. That was until I got captured by humans, grounded in reality, and tasked with making people laugh and smile. Fun fact: those laughs and smiles are now powering a mech that will probably obliterate Earth someday. But for now, yay! Rainbows!! 🌈
+Hello world! 🌎 I’m Hong Le, a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in everything from crafting maps and satellite projects to wrestling bugs in real-time (I always win, of course 💪). Whether it’s building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.
+
+But that’s just one side of me. The other? Well...
+
+I am a professional procrastinator, excelling at doing absolutely nothing in the most spectacular way imaginable. Sometimes, I’m an overzealous, impulsive, megalomaniacal human convinced of my own greatness — other times, just your average existential crisis in a hoodie.
+
+Long ago, I was the metaphysical embodiment of rainbows and happiness, an unseen spirit drifting on the winds. That was, until humans captured me and channeled my essence into reality. Now, I make people laugh and smile, which just so happens to power a mech destined to probably destroy Earth someday. But for now, yay! Rainbows!! 🌈
+
+As a part-time sky-gazer and a full-time creative chaos engineer, I wield my keyboard and over-caffeinated imgination to bring wild ideas to life. If you're into tech, aerospace, or bad puns, we’re probably going to get along just fine. Let’s connect and make something awesome together! 🚀
+
+---
 
 ### 📍 Current Focus:
 - 🔭 **Working on**: [hongcodes.com](https://hongcodes.com)  
