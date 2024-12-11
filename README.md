@@ -1,4 +1,4 @@
-![Banner](assets/Computer%20Programming%20And%20Coding%20Banner%20(1).png)
+![Banner](assets/coding-banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Hong+Le.;I+love+building+software+solutions...;...and+creating+cybersecurity+strategies.+;I'm+coding+in+Java+%26+C%2B%2B+...;...wait%2C+no+%E2%80%94+Python!...++;...actually%2C+all+of+the+above.+;Software+Engineer+by+day...++;...Pilot-in-Training+by+night.+;%22Tower%2C+requesting+permission+to+land...%22++;...on+this+amazing+new+project!+;%22Final+approach+initiated...%22++;...but+I+might+just+keep+soaring.++%E2%9C%88%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -6,7 +6,7 @@
 
 ![til](assets/rainbow-line.gif)
 
-Hello world! 🌎 I’m **Hong Le** (she/her), a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in everything from crafting maps and satellite projects to wrestling bugs in real-time (I always win, of course 💪). Whether it’s building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.  
+Hello world! 🌎 I’m **Hong Le** (she/her), a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in a bit of everything because sticking to one thing feels way too mainstream. Indecisiveness? Let’s just call it versatility. Whether it’s building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.  
 
 But that’s just one side of me. The other? Well...
 
@@ -28,14 +28,35 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 ---
 
 ### 🚀 My Tech Stack:
-- **Language**:
+- **Programnming Languages**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,cpp" />
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,swift" />
     </a>
   </p>
 
 - **Frameworks & Libraries**:
+ <!-- <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    </a>
+  </p> -->
+
+- **Data Science & Machine Learning**:
+ <!-- <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    </a>
+  </p> -->
+
+- **Web Development**:
+ <!-- <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+    </a>
+  </p> -->
+
+- **Databases & Data Modeling**:
  <!-- <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,python,cpp" />
