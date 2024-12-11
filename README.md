@@ -12,11 +12,23 @@
 
 ---
 
+### 🚀 My Tech Stack:
+- **Language**:
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,c++" />
+    </a>
+  </p>
+
+- **Frameworks & Libraries**:
+- **LTools & Platforms**:
+
+---
+
 ### 💬 Let's Chat About:
 - 🥘 **Best places to eat** — Always up for a food recommendation!  
 - 📫 **How to reach me**:  
   - Email: [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)  
-- 😄 **Pronouns**: She/her  
 - ⚡ **Fun fact**: I can beat you in arm wrestling, with an unwavering 100% win rate 😎
 
 ---
