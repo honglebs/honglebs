@@ -10,7 +10,7 @@ But that’s just one side of me. The other? Well...
 
 I am a **professional procrastinator**, excelling at doing absolutely nothing in the most spectacular way imaginable. Sometimes, I’m an overzealous, impulsive, **megalomaniacal** human convinced of my own greatness — other times, just your average **existential crisis in a hoodie**.  
 
-Long ago, I was the metaphysical embodiment of **rainbows and happiness**, an unseen spirit drifting on the winds. That was until I got captured by humans, grounded to reality, and tasked with making people laugh and smile. Now, I make people laugh and smile. Fun fact: those laughs and smiles are now powering a mega mech that will _probably_ obliterate Earth someday. But for now, yay! **Rainbows!!** 🌈  
+Long ago, I was the metaphysical embodiment of **rainbows and happiness**, an unseen spirit drifting through the winds. That was until I got captured by humans, grounded to reality, and tasked with making people laugh and smile. Fun fact: those same laughs and smiles are now powering a mega mech that will _probably_ obliterate Earth someday. But for now, yay! **Rainbows!!** 🌈  
 
 As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wield my keyboard and over-caffeinated imagination to bring wild ideas to life. If you're into **tech**, **anarchy**, or **bad puns**, we’re probably going to get along just fine. Let’s connect and make something awesome together! 🚀
 
