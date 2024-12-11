@@ -3,6 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Hong+Le.;I+love+building+software+solutions...;...and+creating+cybersecurity+strategies.+;I'm+coding+in+Java+%26+C%2B%2B+...;...wait%2C+no+%E2%80%94+Python!...++;...actually%2C+all+of+the+above.+;Software+Engineer+by+day...++;...Pilot-in-Training+by+night.+;%22Tower%2C+requesting+permission+to+land...%22++;...on+this+amazing+new+project!+;%22Final+approach+initiated...%22++;...but+I+might+just+keep+soaring.++%E2%9C%88%EF%B8%8F)](https://git.io/typing-svg)
 
 ## 👋 Greetings, mission briefing begins now!
+- Welcome to my Github! I'm Hong Le, a professional procrasinator excelling in the art of doing absolutely nothing in the most spectacular way imaginable. Sometimes, I’m an overzealous, impulsive, megalomaniacal human convinced of my own greatness—other times, just your average existential crisis in a hoodie.
+
+Once upon a time, I was the metaphysical embodiment of rainbows and happiness, an unseen spirit drifting through the winds. That was until I got captured by humans, grounded in reality, and tasked with making people laugh and smile. Fun fact: those laughs and smiles are now powering a mech that will probably obliterate Earth someday. But for now, yay! Rainbows!! 🌈
 
 ### 📍 Current Focus:
 - 🔭 **Working on**: [hongcodes.com](https://hongcodes.com)  
@@ -16,12 +19,13 @@
 - **Language**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,c++" />
+      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
     </a>
   </p>
 
 - **Frameworks & Libraries**:
-- **LTools & Platforms**:
+
+- **Tools & Platforms**:
 
 ---
 
