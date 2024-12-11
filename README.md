@@ -4,7 +4,7 @@
 
 ## 👋 Greetings, mission briefing begins now!
 
-![til](assets/rainbow-line.gif)
+![til](assets/fast-rainbow-line.webp)
 
 Hello world! 🌎 I’m **Hong Le** (she/her), a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in everything from crafting maps and satellite projects to wrestling bugs in real-time (I always win, of course 💪). Whether it’s building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.  
 
@@ -36,18 +36,18 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
   </p>
 
 - **Frameworks & Libraries**:
- <p align="center">
+ <!-- <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,python,cpp" />
     </a>
-  </p>
+  </p> -->
 
 - **Tools & Platforms**:
- <p align="center">
+ <!-- <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,python,cpp" />
     </a>
-  </p>
+  </p> -->
 
 ---
 
