@@ -38,14 +38,14 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Frameworks & Libraries**:
  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,vue,django,svelte" />
+      <img src="https://skillicons.dev/icons?i=spring,vue,bootstrap,django,svelte,tailwind,npm,vite" />
     </a>
   </p>
 
 - **Data Science & Machine Learning**:
  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sklearn" />
+      <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
     </a>
   </p>
 
@@ -57,18 +57,18 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
   </p>
 
 - **Databases & Data Modeling**:
- <!-- <p align="center">
+ <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
     </a>
-  </p> -->
+  </p>
 
 - **Tools & Platforms**:
- <!-- <p align="center">
+ <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,windows,apple,bash,figma,blender" />
     </a>
-  </p> -->
+  </p>
 
 ---
 
