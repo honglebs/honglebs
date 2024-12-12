@@ -30,7 +30,7 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 ### 🚀 My Tech Stack:
 - **Programnming Languages**:
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=py,java,cpp,swift" />
     </a>
   </p>
