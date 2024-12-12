@@ -37,35 +37,35 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 
 - **Frameworks & Libraries**:
  <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=spring,vue,bootstrap,django,svelte,tailwind,npm,vite" />
     </a>
   </p>
 
 - **Data Science & Machine Learning**:
  <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
     </a>
   </p>
 
 - **Web Development**:
  <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=js,html,css," />
     </a>
   </p>
 
 - **Databases & Data Modeling**:
  <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
     </a>
   </p>
 
 - **Tools & Platforms**:
  <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="">
       <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,windows,apple,bash,figma,blender" />
     </a>
   </p>
