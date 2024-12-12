@@ -31,30 +31,30 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Programnming Languages**:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,java,cpp,swift" />
+      <img src="https://skillicons.dev/icons?i=py,java,cpp,swift" />
     </a>
   </p>
 
 - **Frameworks & Libraries**:
- <!-- <p align="center">
+ <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=spring,vue,django,svelte" />
     </a>
-  </p> -->
+  </p>
 
 - **Data Science & Machine Learning**:
- <!-- <p align="center">
+ <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=sklearn" />
     </a>
-  </p> -->
+  </p>
 
 - **Web Development**:
- <!-- <p align="center">
+ <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,python,cpp" />
+      <img src="https://skillicons.dev/icons?i=js,html,css," />
     </a>
-  </p> -->
+  </p>
 
 - **Databases & Data Modeling**:
  <!-- <p align="center">
