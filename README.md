@@ -37,12 +37,22 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
     </a>
   </p>
 
-
-<!-- 
-## 🏆 **Achievements** 
-
 ## 📚 **Featured Projects**  
--->
+- **[Pacman Traversal Capstone](<https://github.com/honglebs/Pacman-Path-Traversal>) | [Watch Video](<https://youtu.be/9fFdVH_Qdgo>)**  
+  A **Capstone Project** in **Computer Science** at UCB, focusing on **algorithm optimization** for pathfinding and traversal using Pacman as a simulation. The project involved creating efficient algorithms for movement, demonstrating my problem-solving skills and understanding of graph traversal techniques.
+
+- **[Predict Botnet](<https://github.com/honglebs/PredictBotnet>)**  
+  **Predictive modeling** for **botnet detection** using **machine learning** to analyze **network traffic patterns**. The project successfully predicted 96% accuracy between malicious & bengin botnet activities by detecting irregular behavior across network nodes. Developed with **Python** and **Scikit-learn** for rapid development and deployment for IDS/IPS.
+
+- **[WalkPhilly Capstone](<https://github.com/honglebs/walk-philly>)**  
+  A **geospatial mobile-first web app** built for the **Niantic Voyager Scholarship** using **Java**, **Spring Boot**, **Vue.js**, and **PostgreSQL**. The app showcases my experience in **map-based solutions**, designed to promote **pedestrian-friendly routes/exploartion** in **Philadelphia**. It attracted over 200 impressions post-release.
+---
+
+## 🏆 **Achievements** 
+- **2nd Place** in the **AnimalHacks** hackathon with **WildGuard**: A winning **cybersecurity** project focused on **real-time threat monitoring**.
+- Led multiple teams to achieve **Gold** and **Platinum** in the **Air & Space Forces Association's National Youth Cyber Defense Competition**, demonstrating exceptional leadership, mentorship, and strategic guidance that resulted in significant performance improvements.
+- Awarded scholarships for **Women in Cybersecurity, Niantic Voyager Scholarship (Software Engineering), Women in Cloud, AnitaB Inclusion Scholarship, Women in Aviation**, recognizing my contributions and potential in tech. 
+
 
 ## 🌈 Behind the Code -- Get to Know Me 
 ![til](assets/rainbow-line.gif)
