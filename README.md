@@ -38,12 +38,11 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
   </p>
 
 
-
-<!-- ## 🏆 **Achievements** 
+<!-- 
+## 🏆 **Achievements** 
 
 ## 📚 **Featured Projects**  
-
---- -->
+-->
 
 ## 🌈 Behind the Code -- Get to Know Me 
 ![til](assets/rainbow-line.gif)
@@ -62,16 +61,14 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 
 
 
-<!-- ## 💬 **Let's Connect**  
+## 💬 **Let's Connect** 
+- **LinkedIn:** [Connect Here](www.linkedin.com/in/honglebs)
 - **Email:** [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)
 - **Portfolio:** [hongcodes.com](https://hongcodes.com)  
-- **LinkedIn:** [Connect Here](www.linkedin.com/in/honglebs) -->
+- **Discord** [Wanna VC?](https://discord.gg/VHAxAFfC)
+- **Steam** [PC GAMER?!](https://s.team/p/ghfj-cngq/KJJTNGHC)
+- **Insta** [Let's be friends!](https://www.instagram.com/livin_hong/)
 
-## 🌐 Find Me Here:
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/honglebs/)
-- [![Gmail](https://upload.wikimedia.org/wikipedia/commons/1/1f/Google_Gmail_logo_2020.svg)](mailto:hongle.codes@gmail.com)
-- [![Discord](https://upload.wikimedia.org/wikipedia/commons/a/a7/Discord_logo_2023.svg)](https://discord.gg/VHAxAFfC)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/livin_hong/)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongcodes&show_icons=true&theme=radical)](https://github.com/hongcodes)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcodes&layout=compact&theme=radical)](https://github.com/hongcodes)  
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongcodes&show_icons=true&theme=radical)](https://github.com/hongcodes)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcodes&layout=compact&theme=radical)](https://github.com/hongcodes)   -->
