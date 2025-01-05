@@ -46,7 +46,7 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 
 - **[WalkPhilly Capstone](<https://github.com/honglebs/walk-philly>)**  
   A **geospatial mobile-first web app** built for the **Niantic Voyager Scholarship** using **Java**, **Spring Boot**, **Vue.js**, and **PostgreSQL**. The app showcases my experience in **map-based solutions**, designed to promote **pedestrian-friendly routes/exploartion** in **Philadelphia**. It attracted over 200 impressions post-release.
----
+
 
 ## 🏆 **Achievements** 
 - **2nd Place** in the **AnimalHacks** hackathon with **WildGuard**: A winning **cybersecurity** project focused on **real-time threat monitoring**.
