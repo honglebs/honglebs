@@ -83,23 +83,9 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
     <tr>
       <td colspan="2" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=honglebs&theme=radical" alt="GitHub Streak" />
+        <img src="https://github-profile-trophy.vercel.app/?username=honglebs&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
       </td>
     </tr>
   </table>
 </div>
 
-
-
-## 📊 GitHub Stats + 🏆 Trophies
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honglebs&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honglebs&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=honglebs&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=honglebs&theme=radical" alt="GitHub Streak" />
-</div>
