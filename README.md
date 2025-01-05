@@ -69,6 +69,7 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Steam:** [PC GAMER?!](https://s.team/p/ghfj-cngq/KJJTNGHC)
 - **Insta:** [Let's be friends!](https://www.instagram.com/livin_hong/)
 
-
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongcodes&show_icons=true&theme=radical)](https://github.com/hongcodes)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongcodes&layout=compact&theme=radical)](https://github.com/hongcodes)   -->
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honglebs&show_icons=true&theme=radical)](https://github.com/honglebs)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honglebs&layout=compact&theme=radical)](https://github.com/honglebs)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honglebs&theme=radical)](https://git.io/streak-stats)
