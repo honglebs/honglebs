@@ -6,15 +6,15 @@
 
 ![til](assets/rainbow-line.gif)
 
-Hello world! 🌎 I’m **Hong Le** (she/her), a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in a bit of everything because sticking to one thing feels way too mainstream. Indecisiveness? Let’s just call it versatility. Whether it’s building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.  
+Hello world! 🌎 I'm **Hong Le** (she/her), a dreamer disguised as a coder, blending creativity, logic, and just a touch of madness to turn ideas into reality (and bugs into... smaller bugs?). I dabble in a bit of everything because sticking to one thing feels way too mainstream. Indecisiveness? Let's just call it versatility. Whether it's building slick software, securing cyberspace, or dreaming about soaring through the clouds as a pilot, I tackle challenges with a smile, a bit of sarcasm, and maybe a bad pun or two.  
 
-But that’s just one side of me. The other? Well...
+But that's just one side of me. The other? Well...
 
-I am a **professional procrastinator**, excelling at doing absolutely nothing in the most spectacular way imaginable. Sometimes, I’m an overzealous, impulsive, **megalomaniacal** human convinced of my own greatness — other times, just your average **existential crisis in a hoodie**.  
+I am a **professional procrastinator**, excelling at doing absolutely nothing in the most spectacular way imaginable. Sometimes, I'm an overzealous, impulsive, **megalomaniacal** human convinced of my own greatness — other times, just your average **existential crisis in a hoodie**.  
 
 Long ago, I was the metaphysical embodiment of **rainbows and happiness**, an unseen spirit drifting through the winds. That was until I got captured by humans, grounded to reality, and tasked with making people laugh and smile. Fun fact: those same laughs and smiles are now powering a mega mech that will _probably_ obliterate Earth someday. But for now, yay! **Rainbows!!** 🌈  
 
-As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wield my keyboard and over-caffeinated imagination to bring wild ideas to life. If you're into **tech**, **anarchy**, or **bad puns**, we’re probably going to get along just fine. Let’s connect and make something awesome together! 🚀
+As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wield my keyboard and over-caffeinated imagination to bring wild ideas to life. If you're into **tech**, **anarchy**, or **bad puns**, we're probably going to get along just fine. Let's connect and make something awesome together! 🚀
 
 ![til](assets/rainbow-line.gif)
 ---
@@ -66,7 +66,7 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Tools & Platforms**:
  <p align="center">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,windows,apple,bash,figma,blender" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,windows,bash,figma" />
     </a>
   </p>
 
