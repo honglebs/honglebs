@@ -70,6 +70,21 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **Insta:** [Let's be friends!](https://www.instagram.com/livin_hong/)
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=honglebs&show_icons=true&theme=radical)](https://github.com/honglebs)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=honglebs&layout=compact&theme=radical)](https://github.com/honglebs)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=honglebs&theme=radical)](https://git.io/streak-stats)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=honglebs&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honglebs&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=honglebs&theme=radical" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
