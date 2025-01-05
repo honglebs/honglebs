@@ -20,21 +20,21 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 ---
 
 ## 🚀 **My Tech Stack**:
-- # **Languages & Frameworks**:
+- ### **Languages & Frameworks**:
  <p align="center">
     <a href="">
       <img src="https://skillicons.dev/icons?i=py,java,cpp,spring,vue,bootstrap,django,svelte,tailwind,npm,vite,js,html,css,threejs" />
     </a>
   </p>
 
-- # **Data & Machine Learning**:
+- ### **Data & Machine Learning**:
  <p align="center">
     <a href="">
       <img src="https://skillicons.dev/icons?i=sklearn,pytorch,postgres,sqlite,pytorch,tensorflow" />
     </a>
   </p>
 
-- # **Tools & Platforms**:
+- ### **Tools & Platforms**:
  <p align="center">
     <a href="">
       <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,ubuntu,windows,bash,figma,postman" />
