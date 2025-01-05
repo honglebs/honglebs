@@ -65,9 +65,9 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 - **LinkedIn:** [Connect Here](www.linkedin.com/in/honglebs)
 - **Email:** [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)
 - **Portfolio:** [hongcodes.com](https://hongcodes.com)  
-- **Discord** [Wanna VC?](https://discord.gg/VHAxAFfC)
-- **Steam** [PC GAMER?!](https://s.team/p/ghfj-cngq/KJJTNGHC)
-- **Insta** [Let's be friends!](https://www.instagram.com/livin_hong/)
+- **Discord:** [Wanna VC?](https://discord.gg/VHAxAFfC)
+- **Steam:** [PC GAMER?!](https://s.team/p/ghfj-cngq/KJJTNGHC)
+- **Insta:** [Let's be friends!](https://www.instagram.com/livin_hong/)
 
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongcodes&show_icons=true&theme=radical)](https://github.com/hongcodes)  
