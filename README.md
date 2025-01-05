@@ -9,7 +9,7 @@ Greetings, mission breifing begins now! Hi, I'm **Hong Le**, a software engineer
 
 Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate! 😎
 
----
+
 
 ## 📍 **Current Focus**:
 - 🔭 **Working on**: [hongcodes.com](https://hongcodes.com)  
@@ -17,7 +17,6 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 - 👯 **Dreaming of**: Combining everything with software for innovative solutions  
 
 
----
 
 ## 🚀 **My Tech Stack**:
 - ### **Languages & Frameworks**:
@@ -41,15 +40,8 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
     </a>
   </p>
 
----
 
-## 💬 Let's Chat About:
-- 🥘 **Best places to eat** — Always up for a food recommendation!  
-- 📫 **How to reach me**:  
-  - Email: [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)  
-- ⚡ **Fun fact**: I can beat you in arm wrestling, with an unwavering 100% win rate 😎
 
----
 
 <!-- ## 🏆 **Achievements** 
 
@@ -72,10 +64,10 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 
 ![til](assets/rainbow-line.gif)
 
----
+
 
 ## 💬 **Let's Connect**  
-- **Email:** [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com)  
+- **Email:** [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)
 - **Portfolio:** [hongcodes.com](https://hongcodes.com)  
 - **LinkedIn:** [Connect Here](www.linkedin.com/in/honglebs)
 
