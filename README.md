@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=6000&pause=1000&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi+there!+I'm+Hong+Le.;I+love+building+software+solutions...;...and+creating+cybersecurity+strategies.+;I'm+coding+in+Java+%26+C%2B%2B+...;...wait%2C+no+%E2%80%94+Python!...++;...actually%2C+all+of+the+above.+;Software+Engineer+by+day...++;...Pilot-in-Training+by+night.+;%22Tower%2C+requesting+permission+to+land...%22++;...on+this+amazing+new+project!+;%22Final+approach+initiated...%22++;...but+I+might+just+keep+soaring.++%E2%9C%88%EF%B8%8F)](https://git.io/typing-svg)
 
 
-## 👋👩‍💻 **About Me**
+## 👩‍💻 **About Me**
 Greetings, mission breifing begins now! Hi, I'm **Hong Le**, a software engineer passionate about creating software solutions, securing cyberspace, and exploring aerospace. Currently pursuing my OMSCS at Georgia Tech, I aim to blend cutting-edge software with real-world impact.
 
 Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate! 😎
