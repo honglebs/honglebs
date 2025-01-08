@@ -71,7 +71,7 @@ As a part-time **sky-gazer** and a full-time **creative chaos engineer**, I wiel
 
 
 
-## 💬 **Let's Connect** 
+## 💬 **Find Me On** 
 - **LinkedIn:** [Connect Here](www.linkedin.com/in/honglebs)
 - **Email:** [hong.le@hongcodes.com](mailto:hong.le@hongcodes.com) || [hongle.codes@gmail.com](mailto:hongle.codes@gmail.com)
 - **Portfolio:** [hongcodes.com](https://hongcodes.com)  
