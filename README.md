@@ -10,7 +10,7 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 
 
 ## 📍 **Current Focus**:
-- 🔭 **Building**: [Venues & Estates](#) & [hongcodes.com](https://hongcodes.com)  
+- 🔭 **Building**: [hongcodes.com](https://hongcodes.com) & Incoming SAT Lab
 - 🌱 **Learning**: artificial intelligence, machine learning, real-time systems, GIS, maps & satellites
 - 💭 **Dreaming of**: Combining everything with software for innovative solutions  
 
