@@ -10,9 +10,10 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 
 
 ## 📍 **Current Focus**:
-- 🔭 **Building**: [Venues & Estates](#) & [hongcodes.com](https://hongcodes.com)  
-- 🌱 **Learning**: artificial intelligence, machine learning, real-time systems, GIS, maps & satellites
-- 💭 **Dreaming of**: Combining everything with software for innovative solutions  
+- 🔭 **Building**: [Lux Eevents](#) & [hongcodes.com](https://hongcodes.com)  
+- 🌱 **Learning**: artificial intelligence, machine learning, real-time signal systems, GIS, maps & satellites
+- 👩🏻‍🔬 **Researching**: XAI with physiological signals 
+- 💭 **Dreaming of**: launching myself far past the exosphere
 
 
 ## 🚀 **My Tech Stack**:
