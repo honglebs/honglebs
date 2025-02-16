@@ -10,7 +10,7 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 
 
 ## 📍 **Current Focus**:
-- 🔭 **Building**: [Lux Eevents](#) & [hongcodes.com](https://hongcodes.com)  
+- 🔭 **Building**: [Lux Eevents](#) & [hongcodes.com](https://hongcodes.com) & [PolySec Lab](https://www.cpp.edu/polysec/index.shtml)
 - 🌱 **Learning**: artificial intelligence, machine learning, real-time signal systems, GIS, maps & satellites
 - 👩🏻‍🔬 **Researching**: XAI with physiological signals 
 - 💭 **Dreaming of**: launching myself far past the exosphere
