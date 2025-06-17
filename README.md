@@ -34,7 +34,7 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 - ### **Tools & Platforms**:
  <p align="center">
     <a href="">
-      <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,ubuntu,windows,bash,figma,postman" />
+      <img src="https://skillicons.dev/icons?i=vscode,git,idea,pycharm,aws,gcp,linux,kali,ubuntu,bash,figma,postman" />
     </a>
   </p>
 
@@ -50,7 +50,7 @@ Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate
 
 
 ## 🏆 **Achievements** 
-- **2nd Place** in the **AnimalHacks** hackathon with **WildGuard**: A winning **cybersecurity** project focused on **real-time threat monitoring**.
+- **2nd Place** in the **AnimalHacks** hackathon with **WildGuard**: A winning **machine learning** project focused on **real-time threat monitoring** for endangered species.
 - Led multiple teams to achieve **Gold** and **Platinum** in the **Air & Space Forces Association's National Youth Cyber Defense Competition**, demonstrating exceptional leadership, mentorship, and strategic guidance that resulted in significant performance improvements.
 - Awarded scholarships for **Women in Cybersecurity, Niantic Voyager Scholarship (Software Engineering), Women in Cloud, AnitaB Inclusion Scholarship, Women in Aviation**, recognizing my contributions and potential in tech. 
 
