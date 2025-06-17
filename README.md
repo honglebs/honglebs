@@ -7,6 +7,7 @@
 Greetings, mission breifing begins now! Hi, I'm **Hong Le**, a software engineer passionate about creating software solutions, securing cyberspace, and exploring aerospace. Currently pursuing my OMSCS at Georgia Tech, I aim to blend cutting-edge software with real-world impact.
 
 Fun fact? I'm a pilot-in-training with an unwavering 100% arm-wrestling win rate! 😎
+Dare to challenge?
 
 
 ## 📍 **Current Focus**:
